@@ -1,8 +1,6 @@
 # Ekart Shopping - An E-commerce Backend API
 
 
-# Live Link / Demo Link: 🔗
-Access my site at **[ekart.vedasole.me](https://ekart.vedasole.me)**
 
 # Table of Content: 📑
 
